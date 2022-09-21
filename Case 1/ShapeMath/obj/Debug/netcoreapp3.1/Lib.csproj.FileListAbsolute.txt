@@ -1,0 +1,9 @@
+F:\Projects\GitHub\Job-test\Case 1\ShapeMath\bin\Debug\netcoreapp3.1\Lib.deps.json
+F:\Projects\GitHub\Job-test\Case 1\ShapeMath\bin\Debug\netcoreapp3.1\Lib.dll
+F:\Projects\GitHub\Job-test\Case 1\ShapeMath\bin\Debug\netcoreapp3.1\Lib.pdb
+F:\Projects\GitHub\Job-test\Case 1\ShapeMath\obj\Debug\netcoreapp3.1\Lib.csprojAssemblyReference.cache
+F:\Projects\GitHub\Job-test\Case 1\ShapeMath\obj\Debug\netcoreapp3.1\Lib.AssemblyInfoInputs.cache
+F:\Projects\GitHub\Job-test\Case 1\ShapeMath\obj\Debug\netcoreapp3.1\Lib.AssemblyInfo.cs
+F:\Projects\GitHub\Job-test\Case 1\ShapeMath\obj\Debug\netcoreapp3.1\Lib.csproj.CoreCompileInputs.cache
+F:\Projects\GitHub\Job-test\Case 1\ShapeMath\obj\Debug\netcoreapp3.1\Lib.dll
+F:\Projects\GitHub\Job-test\Case 1\ShapeMath\obj\Debug\netcoreapp3.1\Lib.pdb
